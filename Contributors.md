@@ -181,6 +181,7 @@ Subhajit Bera
 - [Maya Sollen-Norrlin](https://github.com/Masoleno)
 - [Anirudh Revanur](https://github.com/AnirudhRevanur)
 - [Mitch Sfakianos](https://github.com/mazarinno)
+- [Rhuan Oliveira](https://github.com/RhuanAlndr)
 - Sudhanshu Rai
 - Ankit R Borude
 - [Marco Castrita](https://github.com/Mcast77)
